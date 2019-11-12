@@ -1,0 +1,4 @@
+To delay an animation, use ‘animation-delay’ or add a number to the animation expression: ‘animation: 5s myAnim linear 2s;’ where ‘2s’ is the animation delay.
+코드 챌린지 : 
+작성한 답안 : https://codesandbox.io/s/blueprint-ozp9g
+노마드 답안 : https://codesandbox.io/s/day-six-challenge-dqmnn

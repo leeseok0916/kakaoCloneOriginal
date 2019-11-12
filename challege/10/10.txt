@@ -1,0 +1,4 @@
+아래 스크린과 같은 CSS 를 작성하세요.
+코드 챌린지 : https://codesandbox.io/s/1z0v676p410
+작성한 답안 : https://codesandbox.io/s/blueprint-t9z7w
+노마드 답안 : https://codesandbox.io/s/day-eleven-gh4sb

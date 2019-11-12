@@ -1,0 +1,12 @@
+The left column is the element on the normal state and the right is the element when the mouse is on top of it.
+
+필요조건:
+There has to be an animation between the two states.
+The button should have round borders and shadows
+
+힌트:
+You will need to use new properties like ‘box-shadow’ and ‘border-radius’
+
+코드 챌린지 : https://codesandbox.io/s/1z0v676p4
+작성한 답안 : https://codesandbox.io/s/blueprint-389og
+노마드 답안 : https://codesandbox.io/s/1on3n2430l
